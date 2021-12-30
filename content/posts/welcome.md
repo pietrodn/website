@@ -1,6 +1,9 @@
 ---
 title: "Welcome!"
 date: 2021-12-30T10:30:20+01:00
+
+tags:
+- blog
 ---
 
 Hi folks 👋🏼👋,

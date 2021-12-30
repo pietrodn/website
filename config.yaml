@@ -59,6 +59,8 @@ params:
         url: about
 
   socialIcons:
+    - name: rss
+      url: "/index.xml"
     - name: facebook
       url: "https://facebook.com/pietrodn"
     - name: twitter
@@ -98,14 +100,10 @@ menu:
       name: Posts
       url: /posts/
       weight: 20
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 30
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 40
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
@@ -124,3 +122,6 @@ outputs:
         - JSON # necessary for search
 
 copyright: '© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.'
+
+taxonomies:
+  tag: tags
