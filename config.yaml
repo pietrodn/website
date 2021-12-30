@@ -1,7 +1,7 @@
 baseURL: "https://blog.pietrodn.com/"
 title: "Pietro's Blog"
 paginate: 10
-theme: PaperMod
+theme: papermod
 
 enableRobotsTXT: true
 buildDrafts: false
