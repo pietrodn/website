@@ -9,6 +9,34 @@
       <link>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.</copyright><atom:link href="https://blog.pietrodn.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.</copyright>
+    <lastBuildDate>Thu, 30 Dec 2021 10:30:20 +0100</lastBuildDate><atom:link href="https://blog.pietrodn.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://blog.pietrodn.com/tags/blog/</link>
+      <pubDate>Thu, 30 Dec 2021 10:30:20 +0100</pubDate>
+      
+      <guid>https://blog.pietrodn.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://blog.pietrodn.com/tags/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.pietrodn.com/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pietro</title>
+      <link>https://blog.pietrodn.com/tags/pietro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.pietrodn.com/tags/pietro/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
