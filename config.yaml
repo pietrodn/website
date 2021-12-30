@@ -24,6 +24,7 @@ params:
   DateFormat: "2006-01-06"
   defaultTheme: auto
   disableThemeToggle: false
+  math: true # enable KaTeX: https://github.com/adityatelange/hugo-PaperMod/blob/exampleSite/content/posts/math-typesetting.md
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -142,3 +143,8 @@ privacy:
   youtube:
     disable: false
     privacyEnhanced: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
