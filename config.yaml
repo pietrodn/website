@@ -93,15 +93,19 @@ menu:
     - identifier: about
       name: About
       url: /about/
-      weight: 1
+      weight: 10
+    - identifier: archives
+      name: Posts
+      url: /posts/
+      weight: 20
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 10
+      weight: 30
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
@@ -118,3 +122,5 @@ outputs:
         - HTML
         - RSS
         - JSON # necessary for search
+
+copyright: '© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.'
