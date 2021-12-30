@@ -1,6 +1,9 @@
 ---
 title: "About me"
 ShowReadingTime: false
+disableShare: true
+ShowBreadCrumbs: false
+hidemeta: true
 
 tags:
 - about
