@@ -124,8 +124,9 @@ Alla liquidazione, il TFR non viene tassato ad aliquota marginale IRPEF (altrime
 ### TFR nel fondo pensione
 
 Alternativamente, il lavoratore può destinare il proprio TFR ad un fondo pensione a propria scelta.
+Il fondo pensione investirà il capitale versato dall'iscritto — che comprende il TFR, i contributi volontari, ed eventuali contributi del datore di lavoro — sui mercati finanziari, rispettando una determinata _asset allocation_, a seconda della propensione al rischio dell'iscritto.
 
-Oltre al fondo pensione, il lavoratore sceglierà in quale **comparto** investire. I fondi pensione offrono tipicamente questi comparti:
+Oltre al fondo pensione, infatti, il lavoratore sceglierà in quale **comparto** investire. I fondi pensione offrono tipicamente questi comparti:
 * **Comparto "prudente"**, consistente in un portafoglio di titoli obbligazionari a breve scadenza e a bassa volatilità, pensato per i lavoratori anziani, più prossimi alla pensione.
 * **Comparto "aggressivo"**, con una più elevata quota azionaria e una maggiore volatilità, pensato per i lavoratori giovani con un orizzonte di investimento lungo (almeno 20 anni).
 * **Comparto "garantito"**, che garantisce una performance almeno pari alla rivalutazione del TFR in azienda.
@@ -133,7 +134,7 @@ Oltre al fondo pensione, il lavoratore sceglierà in quale **comparto** investir
 Il datore di lavoro si preoccuperà di versare il TFR periodicamente (ad esempio, trimestralmente) al fondo pensione.
 Il fondo pensione investirà automaticamente tutti i fondi ricevuti nel comparto scelto.
 
-In caso di cessazione del rapporto di lavoro, al lavoratore non sarà corrisposta alcuna somma.
+In caso di cessazione del rapporto di lavoro, al lavoratore non sarà corrisposta alcuna somma: infatti tutto il capitale resta investito nel fondo fino al pensionamento dell'iscritto, o ad un riscatto anticipato.
 
 ### TFR in azienda vs. fondo pensione
 
@@ -156,15 +157,71 @@ Fondo pensione:
 * **Contro**: non è possibile farsi erogare l'intero capitale in un'unica soluzione al pensionamento, tranne per importi esigui (approfondiremo sotto).
 * **Contro**: in caso di disoccupazione, al lavoratore non viene liquidato il TFR, che resta invece investito nel fondo. Dovrà dunque  aumentare le proprie riserve liquide private per affrontare tali situazioni.
 
+# Fondi pensione: informazioni generali
+
+Il patrimonio dei fondi pensione è autonomo e separato da quello del gestore (ad esempio, una banca). In caso di fallimento del gestore, il patrimonio del fondo non può essere aggredito dai creditori.
+
+La posizione dell'iscritto nel fondo pensione [non è pignorabile o sequestrabile](https://www.sonoprevidente.it/news/notizie/glossario-welfare-intangibilita-fondi-pensione), almeno finché il patrimonio non viene riscattato.
+
+Tutti i fondi pensione italiani sono vigilati dalla [COVIP](https://www.covip.it/) (commissione di vigilanza sui fondi pensione).
+
+L'elenco completo di tutti i fondi pensione per tipologia è disponibile sul [sito della COVIP](https://www.covip.it/la-covip-e-la-sua-attivita/albo-fondi-pensione/elenco-fondi-albo).
+
 # I tipi di fondo pensione
+
+Nel mercato italiano, sono offerti tre tipi di fondo pensione: i **fondi pensione negoziali**, i **fondi pensione aperti**, e i **Piani Individuali Pensionistici (PIP)**.
 
 ## Fondi pensione negoziali
 
+I fondi pensione complementari sono istituiti dai rappresentanti dei lavoratori (sindacati) e dei datori di lavoro di un determinato settore.
+
+L'iscrizione ai fondi negoziali è limitata ai soli lavoratori dipendenti sottoposti al CCNL ([_contratto collettivo nazionale di lavoro_](https://www.wikilabour.it/dizionario/accordi-collettivi/contratto-collettivo-ccnl/)) di quel settore.
+Ad esempio, i lavoratori con CCNL metalmeccanico possono iscriversi al [Fondo pensione Cometa](https://www.cometafondo.it/), e a nessun altro fondo negoziale. Possono sempre iscriversi ad un qualsiasi fondo pensione aperto o PIP.
+
+Al contrario dei fondi gestiti da enti privati, la [governance](https://www.covip.it/sites/default/files/fondipensionenegoziali_0.pdf) dei fondi pensioni negoziali è composta da rappresentanti dei lavoratori e delle imprese.
+
+### Il contributo del datore di lavoro
+
+Gli accordi di settore possono prevedere un **contributo obbligatorio del datore di lavoro** a favore dei lavoratori iscritti al fondo negoziale. Tale contributo può essere condizionato al versamento di un contributo minimo da parte del datore di lavoro.
+
+Ad esempio, nel fondo Cometa dei metalmeccanici è previsto [un contributo da parte del datore di lavoro](https://www.cometafondo.it/site/informazioni/contribuzione):
+
+* _se_ il lavoratore conferisce a Cometa:
+  * il proprio TFR, e
+  * un contributo addizionale pari all'1.2% della propria retribuzione minima contrattuale (da CCNL)
+* _allora_ il datore di lavoro è obbligato a contribuire un ulteriore 2% nel fondo (sempre calcolato sul minimo contrattuale)
+
+Gli iscritti ai fondi pensione aperti o ai PIP non beneficiano di tale contribuzione obbligatoria.
+Il datore di lavoro può comunque scegliere di contribuire volontariamente, a titolo di benefit, al risparmio previdenziale dei propri lavoratori.
+
 ## Fondi pensione aperti
+
+I fondi pensione aperti sono istituiti da banche, società di gestione del risparmio, imprese d'investimento e di assicurazioni.
+Il patrimonio del fondo è separato da quello del gestore e non può essere aggredito dai creditori in caso di fallimento.
+
+L'adesione ai fondi pensione aperta è possibile a tutti, anche a chi non svolge alcuna attività lavorativa.
 
 ## PIP
 
-# Apertura del fondo pensione
+I Piani Individuali Pensionistici (PIP) sono forme pensionistiche individuali realizzate attraverso contratti di assicurazione sulla vita ([COVIP](https://www.covip.it/per-il-cittadino/educazione-previdenziale/glossario/pip)). Sono istituiti da imprese assicurative
+
+È possibile aderire ai PIP solo individualmente.
+
+# Adesione al fondo pensione
+
+L'adesione a un fondo pensione può avvenire con diverse modalità.
+
+* **Adesione individuale**: l'aderente aderisce personalmente a un fondo pensione aperto o ad un PIP al di fuori delle previsioni del proprio contratto di lavoro. L'adesione individuale non è mai prevista per i fondi negoziali.
+* **Adesione collettiva**: il lavoratore è iscritto al fondo pensione secondo gli accordi collettivi del proprio settore o della propria azienda, che individuano il fondo pensione (aperto o chiuso) a cui aderire. Può essere previsto un contributo addizionale del datore di lavoro. L'adesione collettiva non è mai possibile per i PIP.
+* **Adesione tacita**: se previsto dal CCNL o dall'accordo aziendale, i lavoratori che non hanno espresso alcuna scelta sulla destinazione del TFR sono automaticamente iscritti a un fondo pensione (aperto o chiuso, ma non PIP) individuato dallo stesso accordo.
+
+In caso di adesione individuale, **non è obbligatorio scegliere di conferire il TFR nel fondo pensione**.
+È possibile ad esempio:
+
+1. Mantenere il TFR "in azienda" e versare nel fondo pensione unicamente i contributi volontari.
+2. Versare il TFR in un fondo pensione (tipicamente un fondo negoziale, per godere del contributo del datore di lavoro) e versare invece i contributi volontari in un secondo fondo pensione (più desiderabile sotto il profilo dei rendimenti).
+
+In caso di adesione tacita o collettiva, è invece previsto il versamento nel TFR nel fondo.
 
 # Fase di accumulo
 
@@ -172,7 +229,7 @@ Fondo pensione:
 
 # Rendita e prelievi
 
-### Fiscalità
+# Fiscalità
 
 # Conclusioni
 
@@ -180,3 +237,5 @@ Fondo pensione:
 
 * [r/ItaliaPersonalFinance: wiki](https://www.reddit.com/r/ItaliaPersonalFinance/wiki/index#wiki_strumenti_previdenziali.3A_pensioni)
 * [ProPensione: guida pensione](https://www.propensione.it/guida-pensione/)
+* [Guida introduttiva alla previdenza complementare — COVIP](https://www.covip.it/sites/default/files/guidaintroduttivaallaprevidenzacomplementare.pdf)
+* [Strumenti previdenziali — quellocheconta.gov.it, il portale dell'educazione finanziaria](http://www.quellocheconta.gov.it/it/strumenti/previdenziali/)
