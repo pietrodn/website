@@ -225,13 +225,59 @@ In caso di adesione tacita o collettiva, è invece previsto il versamento nel TF
 
 # Fase di accumulo
 
+TODO:
+- TFR
+- contributo volontario
+  - deducibilità
+  - contribuzione extra nei primi 20 anni
+- contributo del datore di lavoro
+- TER e costi
+- come contribuire: busta paga vs. bonifico
+- dichiarazione dei redditi: precompilata
+- Cambio di fondo pensione
+
 # Investimenti, allocazione, rendimenti
+
+- Comparti di investimento
+- Dove reperire informazioni
+- Rendiconti per portafogli dettagliati
 
 # Rendita e prelievi
 
-# Fiscalità
+- Riscatto in capitale, quando è possibile
+- Rendita e tipologie
+  - Coefficienti di conversione
+  - Spiegazione dettagliata: https://www.youtube.com/watch?v=h18WPB-Getk
+- RITA
+- Anticipazioni
+  - Motivi generici
+  - Acquisto prima casa
+  - Motivi di salute
+- Prelievi fiscali su tutti i tipi di rendita
+
+# Rischi
+
+- Volatilità di mercato negli ultimi anni
+- Asset allocation troppo conservative
+- Costi e inefficienze
+- Gestione attiva e underperformance
+- Modifiche normative
+- Indisponibilità dei fondi
+- Morte
 
 # Conclusioni
+
+## TFR in azienda vs. fondo pensione
+
+Convenienza del fondo pensione rispetto al TFR in azienda.
+
+Modello ETF vs. FP: https://www.finanzaonline.com/forum/etf-fondi-e-gestioni-e-investment-certificates/1979835-chi-vi-da-un-rendimento-annuale-pari-alla-deducibilita-di-un-fondo-pensione-111.html#post56788018
+
+## ETF vs. fondo pensione
+
+TODO: strategia ottimale (negoziale + minimo più ETF, saturazione FP, etc.)
+
+https://www.finanzaonline.com/forum/etf-fondi-e-gestioni-e-investment-certificates/1979835-chi-vi-da-un-rendimento-annuale-pari-alla-deducibilita-di-un-fondo-pensione-130.html
 
 # Risorse
 
