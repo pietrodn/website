@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.</copyright>
-    <lastBuildDate>Thu, 30 Dec 2021 10:30:20 +0100</lastBuildDate><atom:link href="https://blog.pietrodn.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.pietrodn.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethereum for computer scientists</title>
+      <link>https://blog.pietrodn.com/posts/ethereum-compsci-presentation/</link>
+      <pubDate>Sun, 12 Jun 2022 20:00:00 +0200</pubDate>
+      
+      <guid>https://blog.pietrodn.com/posts/ethereum-compsci-presentation/</guid>
+      <description>On June 6th, 2022, I held a seminar at Università degli Studi di Milano about Ethereum: virtual currency, state machines, and programmable money.
+The presentation is about Ethereum from the point of view of a computer scientist. It discusses Ethereum&amp;rsquo;s global state, the consensus mechanism, smart contracts, ERC20, and more.
+The slides are publicly available (Google Sheets; PDF).</description>
+    </item>
+    
     <item>
       <title>Welcome!</title>
       <link>https://blog.pietrodn.com/posts/welcome/</link>
