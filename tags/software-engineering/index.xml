@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>software-engineering on Pietro&#39;s Blog</title>
+    <link>https://blog.pietrodn.com/tags/software-engineering/</link>
+    <description>Recent content in software-engineering on Pietro&#39;s Blog</description>
+    <image>
+      <url>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.</copyright>
+    <lastBuildDate>Mon, 04 Jul 2022 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.pietrodn.com/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📖 Book review: &#34;Why Programs Fail&#34; by Andreas Zeller</title>
+      <link>https://blog.pietrodn.com/posts/why-programs-fail/</link>
+      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.pietrodn.com/posts/why-programs-fail/</guid>
+      <description>Why Programs Fail: A Guide to Systematic Debugging (Andreas Zeller)
+🪲 How do you debug a software issue? For me, it has always been a combination of staring at the program code very intensely, collecting evidence from past runs, intuition, and a lot of trial and error: keep changing things until the problem disappears.
+🔬 Can we evolve past these &amp;ldquo;random&amp;rdquo;, unguided approaches, and debug a program using the scientific method?</description>
+    </item>
+    
+  </channel>
+</rss>

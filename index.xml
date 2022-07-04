@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.</copyright>
-    <lastBuildDate>Sun, 12 Jun 2022 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.pietrodn.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.pietrodn.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📖 Book review: &#34;Why Programs Fail&#34; by Andreas Zeller</title>
+      <link>https://blog.pietrodn.com/posts/why-programs-fail/</link>
+      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
+      
+      <guid>https://blog.pietrodn.com/posts/why-programs-fail/</guid>
+      <description>Why Programs Fail: A Guide to Systematic Debugging (Andreas Zeller)
+🪲 How do you debug a software issue? For me, it has always been a combination of staring at the program code very intensely, collecting evidence from past runs, intuition, and a lot of trial and error: keep changing things until the problem disappears.
+🔬 Can we evolve past these &amp;ldquo;random&amp;rdquo;, unguided approaches, and debug a program using the scientific method?</description>
+    </item>
+    
     <item>
       <title>Ethereum for computer scientists</title>
       <link>https://blog.pietrodn.com/posts/ethereum-compsci-presentation/</link>
