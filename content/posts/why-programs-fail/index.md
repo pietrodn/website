@@ -2,7 +2,7 @@
 title: '📖 Book review: "Why Programs Fail" by Andreas Zeller'
 date: 2022-07-04T21:00:00+02:00
 images:
- - wpf.jpg
+ - /posts/why-programs-fail/wpf.jpg
 
 tags:
 - book
