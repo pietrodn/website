@@ -2,7 +2,7 @@
 title: '📖 Book review: "Why Programs Fail" by Andreas Zeller'
 date: 2022-07-04T21:00:00+02:00
 images:
- - wpf.jpeg
+ - wpf.jpg
 
 tags:
 - book
@@ -12,7 +12,7 @@ tags:
 ---
 
 <a href="https://www.whyprogramsfail.com/">
-<img alt="Why Programs Fail book cover" src="./wpf.jpeg" style="width: 50%; margin-left: auto; margin-right: auto;" />
+<img alt="Why Programs Fail book cover" src="./wpf.jpg" style="width: 50%; margin-left: auto; margin-right: auto;" />
 </a>
 
 {{% center %}}
