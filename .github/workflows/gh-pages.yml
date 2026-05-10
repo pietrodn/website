@@ -24,6 +24,14 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Upload site artifact
+        if: github.ref != 'refs/heads/master'
+        uses: actions/upload-artifact@v7
+        with:
+          name: site-${{ github.event.pull_request.head.sha || github.sha }}
+          path: ./public
+          retention-days: 14
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/master'
