@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.pietrodn.com/tags/ai/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.pietrodn.com/posts/ai-intro-presentation-202604/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.pietrodn.com/tags/genai/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.pietrodn.com/tags/llm/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.pietrodn.com/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.pietrodn.com/posts/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.pietrodn.com/tags/slides/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.pietrodn.com/tags/slidev/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.pietrodn.com/tags/</loc>
+    <lastmod>2026-05-10T12:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://blog.pietrodn.com/posts/why-programs-fail/</loc>
     <lastmod>2022-07-04T21:00:00+02:00</lastmod>
   </url><url>
     <loc>https://blog.pietrodn.com/tags/book/</loc>
     <lastmod>2022-07-04T21:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://blog.pietrodn.com/</loc>
-    <lastmod>2022-07-04T21:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.pietrodn.com/posts/</loc>
-    <lastmod>2022-07-04T21:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://blog.pietrodn.com/tags/review/</loc>
     <lastmod>2022-07-04T21:00:00+02:00</lastmod>
   </url><url>
     <loc>https://blog.pietrodn.com/tags/software-engineering/</loc>
-    <lastmod>2022-07-04T21:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.pietrodn.com/tags/</loc>
     <lastmod>2022-07-04T21:00:00+02:00</lastmod>
   </url><url>
     <loc>https://blog.pietrodn.com/tags/why-programs-fail/</loc>
@@ -30,9 +48,6 @@
     <lastmod>2022-06-12T20:00:00+02:00</lastmod>
   </url><url>
     <loc>https://blog.pietrodn.com/posts/ethereum-compsci-presentation/</loc>
-    <lastmod>2022-06-12T20:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.pietrodn.com/tags/slides/</loc>
     <lastmod>2022-06-12T20:00:00+02:00</lastmod>
   </url><url>
     <loc>https://blog.pietrodn.com/tags/unimi/</loc>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slidev on Pietro&#39;s Blog</title>
+    <link>https://blog.pietrodn.com/tags/slidev/</link>
+    <description>Recent content in Slidev on Pietro&#39;s Blog</description>
+    <image>
+      <title>Pietro&#39;s Blog</title>
+      <url>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2021 Pietro De Nicolao. Licensed under the CC-BY 4.0 license.</copyright>
+    <lastBuildDate>Sun, 10 May 2026 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://blog.pietrodn.com/tags/slidev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capire e utilizzare l&#39;AI per creare: una presentazione divulgativa</title>
+      <link>https://blog.pietrodn.com/posts/ai-intro-presentation-202604/</link>
+      <pubDate>Sun, 10 May 2026 12:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/posts/ai-intro-presentation-202604/</guid>
+      <description>&lt;a href=&#34;https://blog.pietrodn.com/slides/ai-intro-presentation-202604/&#34;&gt;
+&lt;img alt=&#34;Prima slide della presentazione: Capire e utilizzare l&#39;AI per creare&#34; src=&#34;cover.png&#34; /&gt;
+&lt;/a&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.pietrodn.com/slides/ai-intro-presentation-202604/&#34;&gt;&lt;strong&gt;Apri il deck interattivo →&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Ho preparato una presentazione introduttiva e divulgativa su &lt;strong&gt;AI e GenAI&lt;/strong&gt;. L&amp;rsquo;obiettivo è dare gli strumenti per capire &lt;em&gt;cosa&lt;/em&gt; sono gli LLM e i modelli generativi, &lt;em&gt;come&lt;/em&gt; si differenziano dal machine learning classico e dal software tradizionale, e &lt;em&gt;dove&lt;/em&gt; ha senso usarli.&lt;/p&gt;
+&lt;h2 id=&#34;come-è-fatta&#34;&gt;Come è fatta&lt;/h2&gt;
+&lt;p&gt;Le slide sono costruite con &lt;a href=&#34;https://sli.dev/&#34;&gt;Slidev&lt;/a&gt;, un framework per slide basato su Markdown e Vue. Il deck è un&amp;rsquo;applicazione web statica ed è completamente offline una volta caricato.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

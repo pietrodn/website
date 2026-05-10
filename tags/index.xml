@@ -5,101 +5,112 @@
     <link>https://blog.pietrodn.com/tags/</link>
     <description>Recent content in Tags on Pietro&#39;s Blog</description>
     <image>
+      <title>Pietro&#39;s Blog</title>
       <url>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.</copyright>
-    <lastBuildDate>Mon, 04 Jul 2022 21:00:00 +0200</lastBuildDate><atom:link href="https://blog.pietrodn.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2021 Pietro De Nicolao. Licensed under the CC-BY 4.0 license.</copyright>
+    <lastBuildDate>Sun, 10 May 2026 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://blog.pietrodn.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>book</title>
-      <link>https://blog.pietrodn.com/tags/book/</link>
-      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.pietrodn.com/tags/book/</guid>
+      <title>Ai</title>
+      <link>https://blog.pietrodn.com/tags/ai/</link>
+      <pubDate>Sun, 10 May 2026 12:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>review</title>
-      <link>https://blog.pietrodn.com/tags/review/</link>
-      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.pietrodn.com/tags/review/</guid>
+      <title>Genai</title>
+      <link>https://blog.pietrodn.com/tags/genai/</link>
+      <pubDate>Sun, 10 May 2026 12:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/genai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>software-engineering</title>
-      <link>https://blog.pietrodn.com/tags/software-engineering/</link>
-      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.pietrodn.com/tags/software-engineering/</guid>
+      <title>Llm</title>
+      <link>https://blog.pietrodn.com/tags/llm/</link>
+      <pubDate>Sun, 10 May 2026 12:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/llm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>why-programs-fail</title>
-      <link>https://blog.pietrodn.com/tags/why-programs-fail/</link>
-      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
-      
-      <guid>https://blog.pietrodn.com/tags/why-programs-fail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethereum</title>
-      <link>https://blog.pietrodn.com/tags/ethereum/</link>
-      <pubDate>Sun, 12 Jun 2022 20:00:00 +0200</pubDate>
-      
-      <guid>https://blog.pietrodn.com/tags/ethereum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>slides</title>
+      <title>Slides</title>
       <link>https://blog.pietrodn.com/tags/slides/</link>
-      <pubDate>Sun, 12 Jun 2022 20:00:00 +0200</pubDate>
-      
+      <pubDate>Sun, 10 May 2026 12:00:00 +0200</pubDate>
       <guid>https://blog.pietrodn.com/tags/slides/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>unimi</title>
+      <title>Slidev</title>
+      <link>https://blog.pietrodn.com/tags/slidev/</link>
+      <pubDate>Sun, 10 May 2026 12:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/slidev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>https://blog.pietrodn.com/tags/book/</link>
+      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>https://blog.pietrodn.com/tags/review/</link>
+      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software-Engineering</title>
+      <link>https://blog.pietrodn.com/tags/software-engineering/</link>
+      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why-Programs-Fail</title>
+      <link>https://blog.pietrodn.com/tags/why-programs-fail/</link>
+      <pubDate>Mon, 04 Jul 2022 21:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/why-programs-fail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethereum</title>
+      <link>https://blog.pietrodn.com/tags/ethereum/</link>
+      <pubDate>Sun, 12 Jun 2022 20:00:00 +0200</pubDate>
+      <guid>https://blog.pietrodn.com/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unimi</title>
       <link>https://blog.pietrodn.com/tags/unimi/</link>
       <pubDate>Sun, 12 Jun 2022 20:00:00 +0200</pubDate>
-      
       <guid>https://blog.pietrodn.com/tags/unimi/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>https://blog.pietrodn.com/tags/blog/</link>
       <pubDate>Thu, 30 Dec 2021 10:30:20 +0100</pubDate>
-      
       <guid>https://blog.pietrodn.com/tags/blog/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>https://blog.pietrodn.com/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.pietrodn.com/tags/about/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pietro</title>
+      <title>Pietro</title>
       <link>https://blog.pietrodn.com/tags/pietro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.pietrodn.com/tags/pietro/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

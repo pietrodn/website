@@ -1,28 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>pietro on Pietro&#39;s Blog</title>
+    <title>Pietro on Pietro&#39;s Blog</title>
     <link>https://blog.pietrodn.com/tags/pietro/</link>
-    <description>Recent content in pietro on Pietro&#39;s Blog</description>
+    <description>Recent content in Pietro on Pietro&#39;s Blog</description>
     <image>
+      <title>Pietro&#39;s Blog</title>
       <url>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.</copyright><atom:link href="https://blog.pietrodn.com/tags/pietro/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2021 Pietro De Nicolao. Licensed under the CC-BY 4.0 license.</copyright>
+    <atom:link href="https://blog.pietrodn.com/tags/pietro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://blog.pietrodn.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.pietrodn.com/about/</guid>
-      <description>Hi, I&amp;rsquo;m Pietro.
-I&amp;rsquo;m a software engineer from Milan, Italy.
-My passions:
-📚 Reading (GoodReads profile) 💻 Programming (GitHub profile) 🏦 Personal finance, cryptocurrency investing I currently work for Bending Spoons.
-Open knowledge I recognize the immense contribution that open, free knowledge has given to the world.
-In the past I&amp;rsquo;ve been an active Wikipedia contributor under the username of Pietrodn; from 2006 to 2009, I&amp;rsquo;ve been an administrator of the Italian Wikipedia.</description>
+      <description>&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;images/full_size_portrait.jpg#center&#34;
+         alt=&#34;My portrait&#34; width=&#34;500&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Hi, I&amp;rsquo;m Pietro.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a software engineer from Milan, Italy.&lt;/p&gt;
+&lt;p&gt;My passions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 Reading (&lt;a href=&#34;https://www.goodreads.com/user/show/50617122-pietro-de-nicolao&#34;&gt;GoodReads profile&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;💻 Programming (&lt;a href=&#34;https://github.com/pietrodn&#34;&gt;GitHub profile&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;🏦 Personal finance, cryptocurrency investing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I currently work for &lt;a href=&#34;https://bendingspoons.com&#34;&gt;Bending Spoons&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;open-knowledge&#34;&gt;Open knowledge&lt;/h2&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/1/1d/Wikimedia_logo_family_complete-2013.svg#center&#34;
+         alt=&#34;Wikimedia Foundation project logos&#34; width=&#34;400&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;I recognize the immense contribution that open, free knowledge has given to the world.&lt;/p&gt;
+&lt;p&gt;In the past I&amp;rsquo;ve been an active Wikipedia contributor under the username of &lt;a href=&#34;https://it.wikipedia.org/wiki/Utente:Pietrodn&#34;&gt;Pietrodn&lt;/a&gt;; from 2006 to 2009, I&amp;rsquo;ve been an administrator of the Italian Wikipedia.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

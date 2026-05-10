@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>unimi on Pietro&#39;s Blog</title>
+    <title>Unimi on Pietro&#39;s Blog</title>
     <link>https://blog.pietrodn.com/tags/unimi/</link>
-    <description>Recent content in unimi on Pietro&#39;s Blog</description>
+    <description>Recent content in Unimi on Pietro&#39;s Blog</description>
     <image>
+      <title>Pietro&#39;s Blog</title>
       <url>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.pietrodn.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2021 Pietro De Nicolao. Licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.</copyright>
-    <lastBuildDate>Sun, 12 Jun 2022 20:00:00 +0200</lastBuildDate><atom:link href="https://blog.pietrodn.com/tags/unimi/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>2021 Pietro De Nicolao. Licensed under the CC-BY 4.0 license.</copyright>
+    <lastBuildDate>Sun, 12 Jun 2022 20:00:00 +0200</lastBuildDate>
+    <atom:link href="https://blog.pietrodn.com/tags/unimi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ethereum for computer scientists</title>
       <link>https://blog.pietrodn.com/posts/ethereum-compsci-presentation/</link>
       <pubDate>Sun, 12 Jun 2022 20:00:00 +0200</pubDate>
-      
       <guid>https://blog.pietrodn.com/posts/ethereum-compsci-presentation/</guid>
-      <description>On June 6th, 2022, I held a seminar at Università degli Studi di Milano about Ethereum: virtual currency, state machines, and programmable money.
-The presentation is about Ethereum from the point of view of a computer scientist. It discusses Ethereum&amp;rsquo;s global state, the consensus mechanism, smart contracts, ERC20, and more.
-The slides are publicly available (Google Sheets; PDF).</description>
+      <description>&lt;p&gt;On June 6th, 2022, I held a seminar at &lt;a href=&#34;https://www.di.unimi.it/ecm/home/aggiornamenti-e-archivi/tutte-le-notizie/content/ethereum-virtual-currency-state-machines-and-programmable-money.0000.UNIMIDIRE-98602&#34;&gt;Università degli Studi di Milano&lt;/a&gt; about &lt;strong&gt;Ethereum: virtual currency, state machines, and programmable money&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The presentation is about Ethereum from the point of view of a computer scientist. It discusses Ethereum&amp;rsquo;s global state, the consensus mechanism, smart contracts, ERC20, and more.&lt;/p&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/1M1UDURc5cw4R7FG3S0lk14v7H1fzbsP6sOO6LL98UfQ/edit#slide=id.p&#34;&gt;
+&lt;img alt=&#34;First page of the presentation&#34; src=&#34;EthereumSlidesCover.png&#34; /&gt;
+&lt;/a&gt;
+&lt;p&gt;The slides are publicly available (&lt;a href=&#34;https://docs.google.com/presentation/d/1M1UDURc5cw4R7FG3S0lk14v7H1fzbsP6sOO6LL98UfQ/edit?usp=sharing&#34;&gt;Google Sheets&lt;/a&gt;; &lt;a href=&#34;EthereumSlides-2022-05-26.pdf&#34;&gt;PDF&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
