@@ -8,15 +8,15 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           # extended: true
@@ -24,8 +24,16 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Upload site artifact
+        if: github.ref != 'refs/heads/master'
+        uses: actions/upload-artifact@v7
+        with:
+          name: site-${{ github.event.pull_request.head.sha || github.sha }}
+          path: ./public
+          retention-days: 14
+
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
