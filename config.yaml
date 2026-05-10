@@ -134,7 +134,7 @@ privacy:
     disable: true
   instagram:
     disable: true
-  twitter:
+  x:
     disable: false
     enableDNT: true
     simple: false

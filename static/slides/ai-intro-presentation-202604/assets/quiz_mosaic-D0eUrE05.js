@@ -1,0 +1,1 @@
+var e=`/slides/ai-intro-presentation-202604/images/quiz_mosaic.webp`;export{e as t};
